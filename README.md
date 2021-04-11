@@ -21,5 +21,5 @@ User can:
 
 Apart from these, dhtmlxGantt library provides more features which have not been explored by me while creating this project. 
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [https://u85bz.csb.app/](https://u85bz.csb.app/) to view it in the browser.
 
